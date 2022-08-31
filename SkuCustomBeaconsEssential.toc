@@ -1,0 +1,4 @@
+## Interface: 30400
+## Title: SkuCustomBeaconsEssential
+## Version: 30
+Core.lua
