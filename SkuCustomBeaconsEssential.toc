@@ -1,4 +1,5 @@
-## Interface: 30400
+## Interface: 30402
 ## Title: SkuCustomBeaconsEssential
-## Version: 30
+## Version: 31
+## X-Curse-Project-ID: 880026
 Core.lua
